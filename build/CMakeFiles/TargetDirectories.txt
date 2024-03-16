@@ -1,0 +1,8 @@
+D:/rep git/battleCity/build/CMakeFiles/battleCity.dir
+D:/rep git/battleCity/build/CMakeFiles/ALL_BUILD.dir
+D:/rep git/battleCity/build/CMakeFiles/ZERO_CHECK.dir
+D:/rep git/battleCity/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+D:/rep git/battleCity/build/external/glfw/src/CMakeFiles/glfw.dir
+D:/rep git/battleCity/build/external/glfw/src/CMakeFiles/update_mappings.dir
+D:/rep git/battleCity/build/external/glad/CMakeFiles/glad.dir
+D:/rep git/battleCity/build/external/glad/CMakeFiles/ALL_BUILD.dir
