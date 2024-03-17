@@ -4,9 +4,6 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{029D294F-C1A4-345F-9F08-3A2F9910F8AE}|battleCity.vcxproj|D:\\rep git\\battleCity\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39663D4C-0BF7-3DF6-B584-D79B73171C8C}|ALL_BUILD.vcxproj|D:\\rep git\\battleCity\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,22 +35,10 @@
               "RelativeDocumentMoniker": "..\\src\\main.cpp",
               "ToolTip": "D:\\rep git\\battleCity\\src\\main.cpp",
               "RelativeToolTip": "..\\src\\main.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACoAAAAxAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-17T00:10:27.52Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CMakeLists.txt",
-              "DocumentMoniker": "D:\\rep git\\battleCity\\CMakeLists.txt",
-              "RelativeDocumentMoniker": "..\\CMakeLists.txt",
-              "ToolTip": "D:\\rep git\\battleCity\\CMakeLists.txt",
-              "RelativeToolTip": "..\\CMakeLists.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-17T00:09:59.971Z"
             }
           ]
         }
